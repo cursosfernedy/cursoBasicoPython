@@ -11,6 +11,6 @@
     * 2.2 Estructuras repetitivas
     
  - 03 Operaciónes con texto
-    * 2.1 Hola Mundo
-    * 2.2 Saludo
+    * 3.1 Hola Mundo
+    * 3.2 Saludo
 
