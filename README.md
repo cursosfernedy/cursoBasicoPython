@@ -5,12 +5,12 @@
  - 01 Operaciónes con texto
     * 1.1 Hola Mundo y saludo
  - 02 Tipos de datos
-    * 1.1 Fundamentos
-    * 1.2 Operadores de asignación
-    * 1.3 Operadores de comparación
-    * 1.4 Ejercicio
+    * 2.1 Fundamentos
+    * 2.2 Operadores de asignación
+    * 2.3 Operadores de comparación
+    * 2.4 Ejercicio
  - 03 Bloques de codigo y estructuras de control
-    * 2.1 Condicionales simples y anidadas
-    * 2.2 Estructuras repetitivas
-    * 2.3 Ejercicio
+    * 3.1 Condicionales simples y anidadas
+    * 3.2 Estructuras repetitivas
+    * 3.3 Ejercicio
 
